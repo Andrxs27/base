@@ -1,0 +1,11 @@
+{
+  "name": "fullstack-app",
+  "version": "1.0.0",
+  "description": "Full-stack application with backend and frontend",
+  "scripts": {
+    "dev": "cd backend && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
